@@ -54,8 +54,7 @@ a {
   letter-spacing: 0.2em;
   text-align: center;
 }
-header h2.titre,
-footer h5.titre {
+header h2.titre, footer h5.titre {
   color: #cf884d;
   font-weight: bold;
   font-size: 0.65rem;
