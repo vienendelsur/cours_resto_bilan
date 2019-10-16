@@ -1,4 +1,4 @@
-# Intégration Web / pisola_resto_bilan
+# Intégration Web / cours_resto_bilan
 
 Vous allez faire une première intégration en vous aidant de ce que vous avez vu précédemment. La maquette se trouve dans le dossier image --> [ online]('https://s-media-cache-ak0.pinimg.com/564x/4b/7a/c1/4b7ac19b9d4ae95805bde3a1896c83a9.jpg')
 
