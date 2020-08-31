@@ -7,6 +7,7 @@ body {
   background-color: #f6f6f7;
   width: 80%;
   margin: 0 auto;
+  color: rgb(146, 144, 144);
 }
 header {
   width: 50%;
@@ -27,9 +28,9 @@ footer p {
   text-transform: uppercase; /*met le texte en majuscules*/
 }
 footer em {
-  font-size: 2.5vw;
+  font-size: 2.5em;
   font-style: italic;
-  line-height: 5rem;
+  line-height: 5em;
 }
 nav {
   text-align: center;
@@ -50,14 +51,14 @@ a {
 /* ------ 3. Les class ------ */
 .titre {
   text-transform: uppercase;
-  font-size: 3rem;
+  font-size: 3em;
   letter-spacing: 0.2em;
   text-align: center;
 }
 header h2.titre, footer h5.titre {
   color: #cf884d;
   font-weight: bold;
-  font-size: 0.65rem;
+  font-size: 0.65em;
 }
 footer h5.titre {
   color: black;
@@ -75,10 +76,7 @@ footer h5.titre {
   vertical-align: middle;
   font-weight: bold;
 }
-#salle .plate:first-child,
-#service .plate:last-child,
-#dressage .plate:first-child,
-#gout .plate:last-child {
+#salle .plate:first-child, #service .plate:last-child, #dressage .plate:first-child, #gout .plate:last-child {
   padding: 3%;
   width: 43.3%;
 }
@@ -89,12 +87,12 @@ footer h5.titre {
 /*Agencement du texte*/
 .plate h3 {
   text-transform: uppercase;
-  font-size: 3vw;
+  font-size: 2em;
   font-weight: bold;
 }
 .plate p {
   font-style: italic;
-  font-size: 2vw;
+  font-size: 1.5em;
 }
 .plate p:last-of-type {
   margin-bottom: 5%;
@@ -103,7 +101,7 @@ footer h5.titre {
   color: #fff;
   background-color: #383838;
   text-transform: uppercase;
-  font-size: 2vw;
+  font-size: 2em;
   padding: 1% 7% 1% 2%;
   margin-top: 2%;
 }
